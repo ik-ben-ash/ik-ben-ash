@@ -1,0 +1,17 @@
+
+#elec {
+    color: rgb(17, 167, 170) ;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 100%;
+  }
+
+  #backdrop { background-color: #282A36;
+}
